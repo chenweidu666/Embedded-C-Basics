@@ -2,7 +2,10 @@
 
 <link rel="stylesheet" href="../npu/assets/print-b5.css">
 
-**掌握预处理器的高级用法、条件编译、内联函数和编译器警告。写出干净、可维护的嵌入式 C 代码。**
+## 📝 本章总结
+
+本章讲解了预处理器指令（#define/#ifdef/#include）、宏函数、条件编译、编译流程和 Makefile 基础。
+
 
 ---
 
@@ -252,15 +255,6 @@ int g_debug_level = 0;
 ```
 
 **规则**：全局变量**只在一个 .c 文件中定义**，在 .h 中用 `extern` 声明。
-
----
-
-
----
-
-## 📝 本章总结
-
-本章讲解了预处理器指令（#define/#ifdef/#include）、宏函数、条件编译、编译流程和 Makefile 基础。
 
 ---
 

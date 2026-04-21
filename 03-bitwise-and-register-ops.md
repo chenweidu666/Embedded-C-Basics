@@ -2,7 +2,10 @@
 
 <link rel="stylesheet" href="../npu/assets/print-b5.css">
 
-**嵌入式开发的核心能力。理解如何用位运算操作寄存器、读写硬件配置，以及 volatile 的关键作用。**
+## 📝 本章总结
+
+本章涵盖了位运算（AND/OR/XOR/NOT/移位）、寄存器位操作（置位/清零/翻转/提取）、volatile 关键字和内存映射 I/O。
+
 
 ---
 
@@ -248,15 +251,6 @@ while (value) {
 #define GET_LAYER_NUM(status)  (((status) >> 4) & 0xF)
 #define GET_STATUS_FLAG(status) ((status) & 0xF)
 ```
-
----
-
-
----
-
-## 📝 本章总结
-
-本章涵盖了位运算（AND/OR/XOR/NOT/移位）、寄存器位操作（置位/清零/翻转/提取）、volatile 关键字和内存映射 I/O。
 
 ---
 
