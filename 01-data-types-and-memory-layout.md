@@ -1,6 +1,6 @@
 # 第 1 章 - C 语言数据类型与内存布局
 
-<link rel="stylesheet" href="assets/print-b5.css">
+<link rel="stylesheet" href="../npu/assets/print-b5.css">
 
 **掌握嵌入式开发中最容易踩坑的内存对齐、结构体设计和位域。理解编译器如何布局你的数据结构。**
 

@@ -1,6 +1,6 @@
 # 第 3 章 - 位运算与寄存器编程
 
-<link rel="stylesheet" href="assets/print-b5.css">
+<link rel="stylesheet" href="../npu/assets/print-b5.css">
 
 **嵌入式开发的核心能力。理解如何用位运算操作寄存器、读写硬件配置，以及 volatile 的关键作用。**
 

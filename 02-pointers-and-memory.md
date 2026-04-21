@@ -1,6 +1,6 @@
 # 第 2 章 - 指针与内存管理
 
-<link rel="stylesheet" href="assets/print-b5.css">
+<link rel="stylesheet" href="../npu/assets/print-b5.css">
 
 **指针是 C 语言的灵魂，也是 80% 的 Bug 来源。本章专注于嵌入式场景下的指针使用和内存管理陷阱。**
 

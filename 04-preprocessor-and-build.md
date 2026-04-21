@@ -1,6 +1,6 @@
 # 第 4 章 - 预处理器与编译技巧
 
-<link rel="stylesheet" href="assets/print-b5.css">
+<link rel="stylesheet" href="../npu/assets/print-b5.css">
 
 **掌握预处理器的高级用法、条件编译、内联函数和编译器警告。写出干净、可维护的嵌入式 C 代码。**
 

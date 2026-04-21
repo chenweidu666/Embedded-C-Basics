@@ -1,6 +1,6 @@
 # NPU 开发必备 C 语言基础 - 章节导览
 
-<link rel="stylesheet" href="assets/print-b5.css">
+<link rel="stylesheet" href="../npu/assets/print-b5.css">
 
 **专注于嵌入式开发和 NPU 寄存器编程所需的 C 语言核心知识。不覆盖完整的 C 语言教程，只提取实战中最关键的部分。**
 
